@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Nelson</h1>
 
 <h2> About Me </h2>
 
