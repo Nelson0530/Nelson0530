@@ -5,7 +5,7 @@
 <h2> About Me </h2>
 
 - I'm a passionate front-end developer who loves solving problems and mastering new technologies.
-- I’m currently learning **django**.
+- I’m currently learning **Python**.
 - Ask me about **OpenCV, PyQt5, MySQL**.
 <!-- I am currently studying Computer Science at Galgotias University. -->
 
