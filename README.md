@@ -6,8 +6,7 @@
 
 - I'm a passionate front-end developer who loves solving problems and mastering new technologies.
 - I’m currently learning **django**.
-- Ask me about **HTML, CSS, Bootstrap**.
-- I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
+- Ask me about **OpenCV, PyQt5, MySQL**.
 <!-- I am currently studying Computer Science at Galgotias University. -->
 
 <h3 align="left">Connect with me:</h3>
