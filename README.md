@@ -38,4 +38,3 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 
 
-[![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
